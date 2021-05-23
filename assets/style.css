@@ -1,0 +1,67 @@
+* {
+    background-color: rgb(145, 145, 218);
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+p {
+    text-align: right;
+}
+
+.imageone {
+    width: 500px;
+    border: cornflowerblue;
+    border-style: solid;
+    border-width: 5px;
+    position: relative;
+    display: flex;
+}
+
+.imagetwo {
+    width: 200px;
+    border: cornflowerblue;
+    border-style: solid;
+    border-width: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imagethree {
+    width: 200px;
+    border: cornflowerblue;
+    border-style: solid;
+    border-width: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imagefour {
+    width: 200px;
+    border: cornflowerblue;
+    border-style: solid;
+    border-width: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imagefive {
+    width: 200px;
+    border: cornflowerblue;
+    border-style: solid;
+    border-width: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
